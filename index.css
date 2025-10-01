@@ -15,7 +15,7 @@
   background: violet;
   border: 1px solid green;
   display: flex;
-  justify-content: center;
+  justify-content: center;  
   align-items: center;    
 }
 .hijo2{
